@@ -1,0 +1,11 @@
+{
+  "name": "nodejs",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.3.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
