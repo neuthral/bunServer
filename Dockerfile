@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 3000
 
-ENTRYPOINT ["bun", "index.js"]
+ENTRYPOINT ["bun", "index.ts"]

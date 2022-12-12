@@ -1,11 +1,12 @@
 {
   "name": "nodejs",
-  "module": "index.js",
-  "type": "module",
+  "module": "index.ts",
   "devDependencies": {
     "bun-types": "^0.3.0"
   },
+  "type": "module",
   "dependencies": {
-    "moment": "^2.29.4"
+    "baojs": "^0.2.1",
+    "serve-static-bun": "^0.4.0"
   }
 }
